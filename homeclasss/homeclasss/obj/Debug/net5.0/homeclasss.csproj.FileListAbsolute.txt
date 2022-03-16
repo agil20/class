@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\homework class\homeclasss\homeclasss\bin\Debug\net5.0\homeclasss.exe
+C:\Users\User\Desktop\homework class\homeclasss\homeclasss\bin\Debug\net5.0\homeclasss.deps.json
+C:\Users\User\Desktop\homework class\homeclasss\homeclasss\bin\Debug\net5.0\homeclasss.runtimeconfig.json
+C:\Users\User\Desktop\homework class\homeclasss\homeclasss\bin\Debug\net5.0\homeclasss.runtimeconfig.dev.json
+C:\Users\User\Desktop\homework class\homeclasss\homeclasss\bin\Debug\net5.0\homeclasss.dll
+C:\Users\User\Desktop\homework class\homeclasss\homeclasss\bin\Debug\net5.0\homeclasss.pdb
+C:\Users\User\Desktop\homework class\homeclasss\homeclasss\obj\Debug\net5.0\homeclasss.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\homework class\homeclasss\homeclasss\obj\Debug\net5.0\homeclasss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\homework class\homeclasss\homeclasss\obj\Debug\net5.0\homeclasss.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\homework class\homeclasss\homeclasss\obj\Debug\net5.0\homeclasss.AssemblyInfo.cs
+C:\Users\User\Desktop\homework class\homeclasss\homeclasss\obj\Debug\net5.0\homeclasss.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\homework class\homeclasss\homeclasss\obj\Debug\net5.0\homeclasss.dll
+C:\Users\User\Desktop\homework class\homeclasss\homeclasss\obj\Debug\net5.0\refint\homeclasss.dll
+C:\Users\User\Desktop\homework class\homeclasss\homeclasss\obj\Debug\net5.0\homeclasss.pdb
+C:\Users\User\Desktop\homework class\homeclasss\homeclasss\obj\Debug\net5.0\homeclasss.genruntimeconfig.cache
+C:\Users\User\Desktop\homework class\homeclasss\homeclasss\obj\Debug\net5.0\ref\homeclasss.dll
